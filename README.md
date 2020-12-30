@@ -1,1 +1,0 @@
-### This a cool looking animated scrolling bar.. 
