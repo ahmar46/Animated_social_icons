@@ -1,1 +1,1 @@
-### This is a animated tray of social 
+### This is a animated tray of social icons.
